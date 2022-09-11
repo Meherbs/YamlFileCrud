@@ -17,3 +17,11 @@ Pas de base de donnée
 Symfony 4 de préférence
 Utilisation de GIT obligatoire
 *****
+* How to install it and run the project :
+* 1 - clone the repository
+* 2 - run composer install
+* 3 - run npm install
+* 4 - run npm run build
+* 5 - run Symfony serve and see the result on 127.0.0.1:8000
+
+*******
